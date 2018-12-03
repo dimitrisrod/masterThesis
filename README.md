@@ -1,2 +1,2 @@
-# masterThesis
-MPS Search Engine
+# MPS Search Engine
+By Dimitrios Roditis - Data Engineer
